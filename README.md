@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0576-out-of-boundary-paths](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0576-out-of-boundary-paths) |
 ## Recursion
 |  |
 | ------- |
