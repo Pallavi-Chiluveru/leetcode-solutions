@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0077-combinations) |
 | [0090-subsets-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -37,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
