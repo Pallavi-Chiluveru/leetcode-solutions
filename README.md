@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
