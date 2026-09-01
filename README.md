@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Backtracking
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/0047-permutations-ii) |
+## Hash Table
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Pallavi-Chiluveru/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
